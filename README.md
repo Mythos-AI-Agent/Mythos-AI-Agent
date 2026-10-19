@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**squad-i0/squad-i0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **Mythos AI** — a local intelligence engine for Windows that runs fully on your machine: autonomous analysis, real-time processing, pattern recognition. No cloud account, no quotas, no content filters.
 
-Here are some ideas to get you started:
+⚡ **Free private beta** — grab a key and the launcher at **[mythos-agent.us](https://mythos-agent.us)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mythos AI](https://mythos-agent.us/screenshots/app-1.png)](https://mythos-agent.us)
+
+#### What's inside
+
+- 🔭 Self-updating launcher: signed & SHA-256 verified builds, zero process leaks
+- 🧠 Local execution layer — an analysis pipeline designed to outlive any single model
+- 📝 Guides & comparisons: [mythos-agent.us/blog](https://mythos-agent.us/blog)
+
+---
+⭐ Reach me: [contact@mythos.ai](mailto:contact@mythos.ai)
