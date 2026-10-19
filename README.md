@@ -13,4 +13,4 @@ I build **Mythos AI** — a local intelligence engine for Windows that runs full
 - 📝 Guides & comparisons: [mythos-agent.us/blog](https://mythos-agent.us/blog)
 
 ---
-⭐ Reach me: [contact@mythos.ai](mailto:contact@mythos.ai)
+⭐ Reach me: [contact@mythos.ai](mailto:contact@mythos-agent.us)
